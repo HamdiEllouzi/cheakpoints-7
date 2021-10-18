@@ -45,6 +45,7 @@ body {
 }
 h1,h3{
     margin: 0;
+    font-size: calc(3px + 3vw);
 }
 .infoBlock  {
     height: 60%;
